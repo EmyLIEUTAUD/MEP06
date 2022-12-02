@@ -12,7 +12,7 @@ On peut accéder à notre application Web sur http://localhost:8080.
 
 ## Déploiment de l'application avec Mogenius
 Mogenius nous permet de déployer notre application à partir d'un Dockerfile présent dans un repo Git. <br><br>
-External hostname : mep06-prod-mep06-ka22a9.mo2.mogenius.io:80<br><br>
+External hostname : https://mep06-prod-mep06-ka22a9.mo2.mogenius.io:80<br><br>
 *Le service a été enlevé pour déployer le backend du projet FullStack.*
 
 ## Déploiment du back du projet FullStack
