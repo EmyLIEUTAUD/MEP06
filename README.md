@@ -1,4 +1,6 @@
 # MEP06
+Emy LIEUTAUD 
+N° étudiant : 31818604
 
 ## Build local
 Build l'image : 
