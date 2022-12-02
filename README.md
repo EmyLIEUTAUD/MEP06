@@ -22,8 +22,7 @@ Sur Mogenius il nous faut créer 2 services : un service à partir du template P
   - POSTGRES_PASSWORD : une Key Vault contenant le mot de passe pour se connecter à la base de données
   - POSTGRES_DB : le nom de la base de données 
   - VOLUME-MOUNT : le volume lié à la base de données
-  - POSTGRES_USER : le username pour se connecter à la base de données 
-<br>
+  - POSTGRES_USER : le username pour se connecter à la base de données <br><br>
 - ProjetFullStack possède 8 variables d'environnement : 
   - SPRING_JPA_SHOW_SQL : égal à true
   - SPRING_DATASOURCE_PASSWORD : une Key Vault contenant le mot de passe pour se connecter à la base de données
@@ -34,5 +33,5 @@ Sur Mogenius il nous faut créer 2 services : un service à partir du template P
   - SPRING_JPA_HIBERNATE_DDL_AUTO : égal à create pour recréer la base de données au lancement du conteneur
   - SPRING_MVC_PATHMATCH_MATCHING_STRATEGY : ant_path_matcher
 <br>
-External hostname pour accéder au back du projet FullStack : [https://projetfullstac-prod-mep06-ka22a9.mo2.mogenius.io:80](https://projetfullstac-prod-mep06-ka22a9.mo2.mogenius.io:80)<br>
+External hostname pour accéder au back du projet FullStack : [https://projetfullstac-prod-mep06-ka22a9.mo2.mogenius.io:80](https://projetfullstac-prod-mep06-ka22a9.mo2.mogenius.io:80)<br><br>
 On peut voir qu'un centre existe dans la base de données (endpoint /public/centres) : [https://projetfullstac-prod-mep06-ka22a9.mo2.mogenius.io/public/centres](https://projetfullstac-prod-mep06-ka22a9.mo2.mogenius.io/public/centres)
